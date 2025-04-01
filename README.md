@@ -1,2 +1,2 @@
 # apna-collage-demo
-author: Muhammad Abdullah Saleem
+author: Muhammad Abdullah Saleem Bhatti
